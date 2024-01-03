@@ -1,0 +1,72 @@
+[
+  {
+    "NomeCompleto": "Ana Silva",
+    "Endereco": "Rua das Flores, 123, Cidade Alegre",
+    "Nacionalidade": "Brasileira",
+    "Idade": 25,
+    "Sexo": "Feminino"
+  },
+  {
+    "NomeCompleto": "Bruna Garcia",
+    "Endereco": "Rua São Pedro, 104, Jacaraipe",
+    "Nacionalidade": "Brasileira",
+    "Idade": 27,
+    "Sexo": "Feminino"
+  },
+  {
+    "NomeCompleto": "Adriana Zanni",
+    "Endereco": "Rua Sete, 8, Maringá",
+    "Nacionalidade": "Brasileira",
+    "Idade": 53,
+    "Sexo": "Feminino"
+  },
+  {
+    "NomeCompleto": "Richard Freire",
+    "Endereco": "Rua Quinze, 4, Maringá",
+    "Nacionalidade": "Brasileiro",
+    "Idade": 18,
+    "Sexo": "Masculino"
+  },
+  {
+    "NomeCompleto": "Barbara da Silva",
+    "Endereco": "Rua Agennor, 15, Boa Vista",
+    "Nacionalidade": "Brasileira",
+    "Idade": 20,
+    "Sexo": "Feminino"
+  },
+  {
+    "NomeCompleto": "Vitor Marcelino",
+    "Endereco": "Av Brasilia, 1083, Porto Canoa",
+    "Nacionalidade": "Brasileiro",
+    "Idade": 28,
+    "Sexo": "Masculino"
+  },
+  {
+    "NomeCompleto": "Maria Clara Souza",
+    "Endereco": "Rua Geraldo da Costa, 2, Conj Jacaraipe",
+    "Nacionalidade": "Brasileira",
+    "Idade": 35,
+    "Sexo": "Feminino"
+  },
+  {
+    "NomeCompleto": "Silvia Almeida",
+    "Endereco": "Rua Florianópolis, 506, B das Laranjeiras",
+    "Nacionalidade": "Brasileira",
+    "Idade": 44,
+    "Sexo": "Feminino"
+  },
+  {
+    "NomeCompleto": "José Roberto da Costa",
+    "Endereco": "Av Central, 42, Laranjeiras",
+    "Nacionalidade": "Brasileiro",
+    "Idade": 37,
+    "Sexo": "Masculino"
+  },
+  {
+    "NomeCompleto": "Daniel Rangel",
+    "Endereco": "Rua Copo de Leite, 2, Novo México",
+    "Nacionalidade": "Brasileiro",
+    "Idade": 42,
+    "Sexo": "Masculino"
+  }
+]
